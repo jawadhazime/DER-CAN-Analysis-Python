@@ -12,5 +12,4 @@ Analyzing Python messages using Python.
 ## Environment Management
 - [Anaconda Individual Edition](https://www.anaconda.com/products/individual)
 - [Conda Docs](https://docs.conda.io/en/latest/)
-
-
+- Current test environment [properties](environment.yml)
